@@ -18,3 +18,4 @@
 
 # Ignore secret info.
 config/database.yml
+config/secrets.yml
